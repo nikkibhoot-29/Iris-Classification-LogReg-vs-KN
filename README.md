@@ -1,6 +1,6 @@
 # Iris Dataset Classification – Logistic Regression vs KNN
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nikkibhoot-29/Iris-Classification-LogReg-vs-KNN/blob/main/iris_classification_logreg_vs_knn.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nikkibhoot-29/Iris-Classification-LogReg-vs-KNN/blob/main/iris_classification_logreg_vs_kn.ipynb)
 
 ## Overview
 
